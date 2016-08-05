@@ -1,0 +1,90 @@
+*{
+	box-sizing: content-box;
+}
+.offset-2 {
+    margin-left: 16.6666666666%;
+}
+
+.fondo1{
+	background-color:#FCCE09 ;
+	height: 600px;
+}
+.boton{
+	width: 20%;
+	height: 30px;
+	background-color:#FCBA43;
+	border:2px solid #FCBA43;
+	border-radius: 5px;
+}
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,900);
+.sumate{
+	text-decoration:none;
+	font-family: 'Merriweather', serif;
+	color:white;
+	padding-left:5%;
+}
+.sumate:hover{
+	color:#262624;
+}
+.alinear{
+	margin-top: 8%;
+	margin-left: 12%;
+}
+.text-center{
+	text-align: center;
+	color:white;
+	padding-top:9%;
+}
+h1{
+	font-size: 35px;
+}
+.fondo2{
+	background-color: #EAEAE9;
+	
+}
+.fondo3{
+	background-color: white;
+	height: 520px;
+	margin-right: 2%;
+	margin-top: 5%;
+	margin-bottom: 1%;
+}
+.imagen-300{
+	width: 65%;
+	height: 250px;
+	padding-top:5%;
+	padding-left: 18%;
+}
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,900);
+.ejemplo{
+	font-size: 35px;
+	color:grey;
+	font-family: 'Merriweather', serif;
+	padding-top: 2%;
+	padding-left: 4%;
+
+}
+.parrafo{
+	color:#BDBDBD;
+	padding-top: 2%;
+	padding-left: 4%;
+	padding-right: 4%;
+}
+.boton2{
+	width: 20%;
+	height: 30px;
+	background-color:#FCBA43;
+	border:2px solid #FCBA43;
+	margin-top: 14%;
+    margin-left: 36%;
+	}
+.seccion{
+	margin-top:1%;
+}
+.fondo4{
+	background-color:#262624;
+	height:70px;
+	color:white;
+	padding-top:2%;
+	padding-left:17%;
+}
